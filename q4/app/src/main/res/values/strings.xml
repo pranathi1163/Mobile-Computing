@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">q4</string>
+    <string name="first_name" />
+    <string name="last_name" />
+    <string name="visit_type1" />
+    <string name="bussiness11" />
+    <string name="social11" />
+    <string name="cancel" />
+    <string name="contin" />
+    <string name="textview" />
+    <string name="textview7" />
+    <string name="textview12" />
+    <string name="text" />
+</resources>
